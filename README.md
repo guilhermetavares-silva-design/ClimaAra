@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22096666.svg)](https://doi.org/10.5281/zenodo.22096666)
 
-ClimaAra — Validador de Acurácia Climática
+ClimaAra — Extração e validação de acurácia em séries de dados climatológicas
 ===========================================
 
 O ClimaAra é um aplicativo desktop desenvolvido para extrair variáveis
